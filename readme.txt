@@ -1,3 +1,2 @@
 this is my first line here.
-this is my second line here.
-
+Creating a new branch is quick.
